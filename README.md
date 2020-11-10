@@ -3,7 +3,7 @@ Commits display an invader in github stats chart
 
 - [ ] Week 1
   - [X] Monday
-  - [ ] Tuesday
+  - [X] Tuesday
   - [ ] Friday
 - [ ] Week 2
   - [ ] Tuesday
