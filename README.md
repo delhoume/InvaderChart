@@ -1,6 +1,6 @@
 # InvaderChart
 Commits display an invader in github stats chart 
-                 
+                  
 - [X] Week 1
   - [X] Monday
   - [X] Tuesday
